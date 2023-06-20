@@ -53,3 +53,6 @@ Here are a few examples of how to use the script:
 Feel free to customize and modify the script to fit your specific requirements. You can add additional functionality, tweak the Docker Compose configuration, or enhance the user interface as needed.
 
 Please note that any modifications should be made with caution and understanding of the potential impacts.
+
+## Design Document
+Please refer to the design document for more information [by clicking on this link](./DesignDocument.md)

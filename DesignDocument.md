@@ -1,4 +1,4 @@
-# Design Document for WordPress
+# Design Document for WordPress-Site-Management
 
 # Project Overview:
 
